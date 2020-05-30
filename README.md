@@ -35,10 +35,10 @@ Clone this repository:
 git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
 ```
 
-Change directory to ```project-6``` folder and install all requisite npm packages (as listed in ```package.json```):
+Change directory to ```project``` folder and install all requisite npm packages (as listed in ```package.json```):
 
 ```
-cd project-6
+cd project
 npm install
 ```
 
