@@ -21,6 +21,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
+- Contract address 0x7E485f61Cd098802fC55EF3A81642cc70Ea98400
+- Truffle@5.1.13 
+- Solidity@ >=0.4.24 (solc-js)
+- Node@12.16.2
+- openzeppelin-solidity@2.1.2
+- truffle-hdwallet-provider@1.0.17
+- truffle-assertions@0.9.2
+
 ```
 Give examples (to be clarified)
 ```
